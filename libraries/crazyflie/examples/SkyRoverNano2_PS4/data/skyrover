@@ -1,0 +1,7 @@
+SkyRoverNano2
+ROLL	Roll Position	3	SLIDER	X Ãà	0	1.0	0.01
+PITCH	Pitch Position	3	SLIDER	Y Ãà	0	1.0	0.01
+YAW	Yaw Position	3	SLIDER	Z Ãà	0	1.0	0.01
+THRUST	Thrust Position	3	SLIDER	Z ȸÀü	0	1.0	0.01
+START	Start Button	1	BUTTON	´ÜÃß 	0	0.0	0.0
+END	End Button	1	BUTTON	´ÜÃß 	0	0.0	0.0
