@@ -120,20 +120,6 @@ public void draw()
     }
   }
   
-  /*
-  boolean dilated = gpad.getButton("PUPILSIZE1").pressed() || gpad.getButton("PUPILSIZE2").pressed();
-  pupilSize = dilated ? irisSize * 0.6f : irisSize * 0.45f; 
-  pupilPosX =  0.9f * map(gpad.getSlider("XPOS").getValue(), -1, 1, -(eyeRad - irisRad), eyeRad - irisRad);
-  pupilPosY =  0.9f * map(gpad.getSlider("YPOS").getValue(), -1, 1, -(eyeRad - irisRad), eyeRad - irisRad);
-  // Eyebrow first
-  lidPos = gpad.getSlider("EYELID").getValue();
-  browFactor = (lidPos >= 0) ? 1 : map(lidPos, 0, -1, 1.1f, 1.3f);
-  
-  // Now the actual lids
-  lidPos = map(lidPos, -0.12f, 1, restLid, maxLid);
-  lidPos = constrain(lidPos, minLid, maxLid);
-*/  
-  
   
   LeftPad_PosX = pad_roll  * (eyeSize-irisSize)/2;
   LeftPad_PosY = pad_pitch * (eyeSize-irisSize)/2;
