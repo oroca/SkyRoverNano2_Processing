@@ -16,3 +16,6 @@ Processing Libraray for SkyRoverNano2
     - Processing 스케치북 폴더의 library폴더에 https://github.com/oroca/SkyRoverNano2_Processing 에서 받은 library 폴더를 복사한다. 
     - Crazyradio와 PS4 게임패드를 연결하고 스케치를 열어서 실행한다. 
     - SkyRoverNano2와 연결하기 위해서는 'c' 버튼을 누른다. 
+
+* 시험 영상
+    - https://youtu.be/-cLhmEckuVQ
